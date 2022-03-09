@@ -38,7 +38,7 @@ const useStyles = makeStyles((theme) => ({
     },
     [theme.breakpoints.down("xs")]: {
       flexDirection: "column",
-      width: "50%",
+      width: "100%",
     },
   },
   article: {
